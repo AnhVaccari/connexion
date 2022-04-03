@@ -92,7 +92,7 @@ include("./includes/header.php");
     </div>
 
     <div class="form-group">
-      <label for="passwordConfirm">Mot de passe 2</label>
+      <label for="passwordConfirm">Confirmation<br>mot de passe</label>
       <input type="password" class="form-control" id="passwordConfirm" name="passwordConfirm">
     </div>
 
@@ -105,7 +105,7 @@ include("./includes/header.php");
     <?php
     }
     ?>
-    <button type="submit" class="btn-primary">Enregistrer</button>
+    <button type="submit" class="btn btn-dark">Enregistrer</button>
   </form>
 
   <?php

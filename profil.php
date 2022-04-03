@@ -127,7 +127,7 @@ include("./includes/header.php");
     <?php
     }
     ?>
-    <button type="submit" class="btn-one">Enregister</button>
+    <button type="submit" class="btn btn-dark">Enregister</button>
   </form>
 
   <?php

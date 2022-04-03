@@ -79,7 +79,7 @@ if (isset($_POST['mail'])) { // Si le formulaire est envoyé
     <?php
     }
     ?>
-    <button type="submit" class="btn-two">Connexion</button>
+    <button type="submit" class="btn btn-outline-success">Connexion</button>
   </form>
   <br>
   <p>Pas de compte <a href="./signup.php">Inscrivez-vous</a></p>
